@@ -1,0 +1,12 @@
+Privacy Policy \n \n
+
+        Overview
+        Your privacy is very important to us. We keep the following fundamental guidelines when operating our service (website and apps): \n \n
+
+We don\t ask you for personal information unless we truly need it.\n
+We don\t store sensitive personal information on our servers. \n  \n
+The applications do not send us any critically important information like your login credentials; instead those are encrypted and stored locally in your device.
+Your social information displayed to other people is subjected to the restrictions and permissions that you have defined in your account in each of your social networks.
+We don\t share your information with anyone except to comply with the law. \n \n
+We may use non-personal statistical information to analyze the use in our website and apps, and that\s in order to improve our service; diagnose technical problems, improve UI and features, maintain security, etc.
+The Privacy Policy applies to all users of the Service, including developers, users who are also contributors of content, information, and other materials or services.
