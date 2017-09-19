@@ -1,0 +1,9 @@
+﻿License type: BUSINESS
+Product: Construct 2
+Licensed to: Construct2
+Email: construct2@abv.bg
+Comment: With best wishes from Figgler [mrfiggler@gmail.com]
+Timestamp: 1487436621
+Hash: 933C833E48C6F27BD591D96EEF8F162A5C9E9DB4F9F152FE7
+
+This is PRIVATE license. Please TURN OFF "UPDATE CHECKING" in C2 preferences BEFORE USE!!!
