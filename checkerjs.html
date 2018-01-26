@@ -1,10 +1,4 @@
 <!--HTML-->
-<!--Button in form-->
-<div>
-    <button type="submit">Submit</button>
-  </div>
-</form>
-
 <!--Pre out form-->
 <pre id="log"></pre>
 
@@ -12,7 +6,7 @@
 var form = document.querySelector("form");
 var log = document.querySelector("#log");
 
-form.addEventListener("submit", function(event) {
+form.addEventListener("mouseover", function(event) {
   var data = new FormData(form);
   var output = "";
   for (const entry of data) {
