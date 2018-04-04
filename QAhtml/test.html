@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<body>
+<form action="">
+  <input type="radio" name="" value="true"> Male<br>
+  <input type="radio" name="" value="false"> Female<br>
+  <input type="radio" name="" value="false"> Other
+</form>
+<hr style="border: 2px; border-color: black; ">
+<form action="">
+  <input type="radio" name="" value="false"> Male<br>
+  <input type="radio" name="" value="true"> Female<br>
+  <input type="radio" name="" value="false"> Other
+</form>
+<hr style="border: 2px; border-color: black; ">
+<form action="">
+  <input type="radio" name="" value="true"> Male<br>
+  <input type="radio" name="" value="false"> Female<br>
+  <input type="radio" name="" value="false"> Other
+</form>
+<hr style="border: 2px; border-color: black; ">
+<form action="">
+  <input type="radio" name="" value="false"> Male<br>
+  <input type="radio" name="" value="false"> Female<br>
+  <input type="radio" name="" value="true"> Other
+</form>
+
+<!--<button onclick="myFunc()">Checked</button>-->
+
+
+<script>
+window.onload = myFunction();
+function myFunction() {
+    var btn = document.createElement("button");
+    var t = document.createTextNode("Checked");
+	btn.appendChild(t);                                
+	document.body.appendChild(btn); 
+	btn.addEventListener("click", myFunc, false);
+}
+function myFunc() {
+    var x = document.querySelectorAll("input[type=radio][value=true]");
+    for(var i=0;i<x.length;i++){
+    	  	x[i].checked = true;
+    }
+    console.log(x);
+}
+</script>
+
+</body>
+</html>
